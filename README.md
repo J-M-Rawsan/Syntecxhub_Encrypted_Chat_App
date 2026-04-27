@@ -64,5 +64,5 @@ python client.py
 ### /users Command Output
 ![Online Users](screenshots/client2-users.png)
 
-!multi
+![multi]
 
