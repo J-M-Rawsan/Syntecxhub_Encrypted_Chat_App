@@ -46,7 +46,10 @@ python server.py
 cd C:\Users\Rawsan\Desktop\Syntecxhub_Encrypted_Chat_App
 python client.py
 ```
-
+- Enter different usernames in each client
+- Type messages normally
+- Type `/users` to see who is online
+- Type `quit` or `exit` to leave the chat
 
 
 
