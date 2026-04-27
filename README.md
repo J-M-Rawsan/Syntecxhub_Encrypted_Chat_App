@@ -56,6 +56,18 @@ Syntecxhub_Encrypted_Chat_App/
 
 📸 Screenshots
 
+## 📸 Screenshots
+
+### 1. Server Running with Connected Clients
+![Server Running](screenshots/server-running.png)
+
+### 2. Real-time Chat between Clients
+![Chat Example](screenshots/chat-example.png)
+
+### 3. /users Command Output
+![Online Users List](screenshots/users-command.png)
+
+*(Click on images to enlarge)*
 Server running with connected clients
 Two clients chatting with each other
 /users command output
