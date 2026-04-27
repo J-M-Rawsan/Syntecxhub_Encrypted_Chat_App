@@ -36,7 +36,7 @@ pip install cryptography
 
 ### 2. Start the Server (First)
 
-#### Open Command Prompt and run:
+- #### Open Command Prompt and run:
 ```bash
 cd C:\Users\Rawsan\Desktop\Syntecxhub_Encrypted_Chat_App
 python server.py
