@@ -32,4 +32,5 @@ A secure client-server chat application where all messages are encrypted using *
 ### 1. Install Dependencies
 ```bash
 pip install cryptography
-
+```
+# rawsan
