@@ -59,7 +59,7 @@ python client.py
 ![Server Running](screenshots/server-running.png)
 
 ### Clients Chatting
-![Client Chat](screenshots/chat-example.png)
+![Client Chat](screenshots/clien1-users.png)
 
 ### /users Command Output
 ![Online Users](screenshots/client2-users.png)
