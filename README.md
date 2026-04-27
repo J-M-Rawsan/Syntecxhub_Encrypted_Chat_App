@@ -53,15 +53,16 @@ python client.py
 
 ---
 
-## 📁 Project Structure
+## 📸 Screenshots
 
-Syntecxhub_Encrypted_Chat_App/
-├── server.py
-├── client.py
-├── chat_log.txt          # Auto-generated log file
-└── README.md
+### Server Running
+![Server Running](screenshots/server-running.png)
 
-📸 Screenshots
+### Clients Chatting
+![Client Chat](screenshots/chat-example.png)
+
+### /users Command Output
+![Online Users](screenshots/client2-users.png)
 
 
 
