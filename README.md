@@ -41,7 +41,7 @@ pip install cryptography
 cd C:\Users\Rawsan\Desktop\Syntecxhub_Encrypted_Chat_App  
 python server.py
 ```
-#### 3. Start Clients (Open multiple terminals)
+### 3. Start Clients (Open multiple terminals)
 ```bash
 cd C:\Users\Rawsan\Desktop\Syntecxhub_Encrypted_Chat_App
 python client.py
