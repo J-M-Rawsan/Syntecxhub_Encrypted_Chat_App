@@ -51,5 +51,7 @@ python client.py
 - Type `/users` to see who is online
 - Type `quit` or `exit` to leave the chat
 
+---
+===
 
 
