@@ -52,6 +52,16 @@ python client.py
 - Type `quit` or `exit` to leave the chat
 
 ---
-===
+
+## 📁 Project Structure
+
+Syntecxhub_Encrypted_Chat_App/
+├── server.py
+├── client.py
+├── chat_log.txt          # Auto-generated log file
+└── README.md
+
+📸 Screenshots
+
 
 
